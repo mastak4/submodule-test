@@ -1,0 +1,3 @@
+[submodule "aem-sightly-repl"]
+	path = aem-sightly-repl
+	url = https://github.com/mastak4/aem-sightly-repl.git
